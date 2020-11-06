@@ -1,5 +1,5 @@
 {
-	"name": "fcc-api-projects-boilerplate",
+	"name": "timestamp-microservice",
 	"version": "0.0.1",
 	"description": "An FCC Backend Challenge",
 	"main": "server.js",
@@ -15,11 +15,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://githost.com/camper/repo.git"
+		"url": "https://github.com/Panda4817/timestamp-microservice"
 	},
 	"keywords": [
 		"node",
-		"hyperdev",
 		"express",
 		"freecodecamp"
 	],
